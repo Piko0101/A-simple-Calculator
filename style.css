@@ -1,0 +1,21 @@
+body {
+    font-family: 'Baloo Tammudu 2', sans-serif;
+    background-color: rgb(231, 222, 222);
+}
+#container{
+    width:1000px;
+    height: 550px;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(./bgImage.jpg);
+    margin: 60px auto;
+    border-radius: 5px;
+}
+#calculator{
+    width: 320px;
+    height: 520px;
+    background-color: #eaedef;
+    margin: 0 auto;
+    top: 20px;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: 0 6px 10px 5px rgba(0,0,0,0.5), 0 8px 22px 5px rgba(0,0,0,0.5);
+}
